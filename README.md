@@ -2,7 +2,7 @@
 
 GENERAL:
 - Uses deep learning model in face-train.py to train.
-  Note: This is not a ideal way.
+  Note: This is not an ideal way.
   
 INSTRUCTIONS:
 - Create a directory named "images" in ..\FaceRecognition
